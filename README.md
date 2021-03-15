@@ -1,0 +1,2 @@
+# picgo
+typora and picgo 
